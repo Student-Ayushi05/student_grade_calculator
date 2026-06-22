@@ -46,7 +46,7 @@ The program uses:
 
 ## Output
 
-📊 RESULT for vivaan 
+📊 RESULT for Harry Potter 
 <br>
   Marks: 98.0
   <br>
