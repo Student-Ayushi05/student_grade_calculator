@@ -1,0 +1,63 @@
+                    STUDENT GRADE CALCULATOR – TEST CASES
+                              (Testing Evidence)
+Test Case 1
+Inputs:
+Enter student name: Doli Gaur
+Enter student marks (0-100): 94
+
+Output:
+Result for Doli Gaur
+Marks: 94.0
+Grade: A
+Message: Excellent work, Keep shining!
+
+
+
+Test Case 2
+Inputs:
+Enter student name: Karishma Sharma
+Enter student marks (0-100): 88
+
+Output:
+Result for Karishma Sharma
+Marks: 88.0
+Grade: B
+Message: Very Good! Keep it up!
+
+
+
+Test Case 3
+Inputs:
+Enter student name: Naksh Singhania
+Enter student marks (0-100): 75
+
+Output:
+Result for Naksh Singhania
+Marks: 75.0
+Grade: C
+Message:  Average, can do even better!
+
+
+
+Test Case 4
+Inputs:
+Enter student name: Daksh
+Enter student marks (0-100): 500
+
+Output:
+Message: Invalid Input, Marks must be between 0-100
+
+
+
+Test Case 5
+Inputs:
+Enter student name: Honey
+Enter student marks (0-100): abc
+
+Output:
+Message: Please enter a valid number.
+
+
+
+
+
